@@ -1,3 +1,3 @@
 #exercico de git
 
-### versao 1.0.4
+### versao 1.0.6
